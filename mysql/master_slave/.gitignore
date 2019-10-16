@@ -1,0 +1,8 @@
+data
+log
+sql
+
+
+!/master/data/.gitkeep
+!/log/.gitkeep
+!/sql/.gitkeep
